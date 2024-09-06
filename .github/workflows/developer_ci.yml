@@ -24,4 +24,4 @@ jobs:
 
       - name: Clean local exe dir
         run: |
-          echo "Salut"
+          echo "Salut" vous
